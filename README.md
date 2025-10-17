@@ -6,7 +6,7 @@
 This repository contains two end-to-end machine learning projects focused on **housing price prediction** and **feature engineering techniques**.  
 The projects are implemented using Python, and they demonstrate **EDA, data preprocessing, feature engineering, model building, and evaluation**.
 
----
+--- 
 
 ## 📌 Project Overview
 
